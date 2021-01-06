@@ -7,8 +7,7 @@
 - Get the first 10 transactions for withdrawals that are not in cash. You will need the extended case study information to tell you which values are required here, and you will need to refer to conditions on two columns.
 
 - Refine your query from last activity on loans whose contract finished and not paid back - filtered to loans where they were left with a debt bigger than 1000.
-
-- Return the debt value together with loan id and account id. Sort by the highest debt value to the lowest.
+  Return the debt value together with loan id and account id. Sort by the highest debt value to the lowest.
 
 - Get the biggest and the smallest transaction with non-zero values in the database (use the trans table in the bank database).
 
