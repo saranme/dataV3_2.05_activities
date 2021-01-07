@@ -11,5 +11,5 @@
 
 - Get the biggest and the smallest transaction with non-zero values in the database (use the trans table in the bank database).
 
-- Get account information with an extra column year showing the opening year as 'YY'. Eg., 1995 will show as 95. Hint: Look at the first two characters of the string date in the account table.
+- Get account information with an extra column year showing the opening year as 'YY'. Eg., 1995 will show as 95. Hint: Look at the first two characters of the string date in the account table. You would have to use function `substr`. Google is your friend. 
 
