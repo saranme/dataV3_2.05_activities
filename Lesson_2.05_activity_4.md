@@ -1,4 +1,4 @@
-# 2.02 Activity 4
+# 2.05 Activity 4
 
 - Null or empty values are usually a problem. Think about why those null values can appear and think of ways of dealing with them.
 - Check for transactions with null or empty values for the column amount.
