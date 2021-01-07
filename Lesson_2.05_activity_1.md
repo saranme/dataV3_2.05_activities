@@ -1,6 +1,6 @@
 # 2.05 Activity 1
 
-Keep working on the `bank` database. (_In case you need to load data again, refer to `files_for_lab` to get the database._)
+Keep working on the `bank` database. (_In case you need to load data again, refer to `files_for_lessons_and_activities` to get the database._)
 
 #### Simple queries
 
