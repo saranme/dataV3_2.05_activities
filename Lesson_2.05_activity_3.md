@@ -1,6 +1,6 @@
 # 2.02 Activity 3
 
-Keep working on the `bank` database. (_In case you need to load data again, refer to the previous lab and `files_for_lab` folder to get the database._)
+Keep working on the `bank` database. (_In case you need to load data again, refer to the previous lab and `files_for_activities` folder to get the database._)
 
 #### Queries
 
